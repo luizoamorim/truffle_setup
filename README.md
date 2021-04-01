@@ -1,3 +1,6 @@
+# Smart contracts tools
+![image](https://user-images.githubusercontent.com/73957838/113349971-3224d800-930f-11eb-9c3b-ff616e12294c.png)
+
 # Project goals
 
 ## Identify ways that Truffle can improve the smart contract creation and deployment process.
