@@ -48,6 +48,7 @@ Look at this page to have more informations:
 trufflesuite.com/docs/advanced/configuration
 
 ## Truffle commands
+```
 Truffle v5.3.0 - a development framework for Ethereum
 
 Usage: truffle <command> [options]
@@ -79,6 +80,7 @@ Commands:
   watch     Watch filesystem for changes and rebuild the project automatically
 
 See more at http://trufflesuite.com/docs
+```
 
 ## Comand sequence
 
